@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Kevin Lorenzo!
+
+<div style="text-align: center;">
+  <img src="https://komarev.com/ghpvc/?username=klorenzo&color=blue&style=flat-square&label=Profile%20Views" alt="klorenzo" />
+</div>
 
 <!--
 **klorenzo/klorenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
