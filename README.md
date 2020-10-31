@@ -25,6 +25,8 @@
   <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="Redis" width="30" />
   <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Redis" width="30" />
   <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="Redis" width="30" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Redis" width="30" />
+  <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="Redis" width="30" />
 </p>
 
 <!--
