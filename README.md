@@ -11,22 +11,22 @@
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="30" />
+  <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="Redis" width="30" />
+  <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Redis" width="30" />
+  <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="Redis" width="30" />
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="30" />
   <img src="https://www.vectorlogo.zone/logos/gnu/gnu-icon.svg" alt="GNU" width="30" />
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="30" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Redis" width="30" />
+  <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="Redis" width="30" />
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="30" />
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="30" />
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Redis" width="30" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" />
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="30" />
   <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="30" />
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="30" />
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="Redis" width="30" />
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Redis" width="30" />
-  <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="Redis" width="30" />
-  <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Redis" width="30" />
-  <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="Redis" width="30" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Redis" width="30" />
-  <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="Redis" width="30" />
 </p>
 
 <!--
