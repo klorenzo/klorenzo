@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kevin Lorenzo!
 
-- 🔭 I'm currently working on PayPal as a Sr. Software Engineer.
+- 🔭 I'm currently working as a Sr. Software Engineer.
 - 🌱 I'm currently learning more about Java, Kubernetes, Cloud Computing, etc.
 - 👯 I'm looking to collaborate on Open Source projects.
 - 💬 Ask me something about Software Development.
