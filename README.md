@@ -1,15 +1,18 @@
 # Hi, I'm Kevin 👋
 
-I'm a software engineer. I've been writing code professionally since 2013. I led my first
-team back in 2020, and I've been in tech lead roles since 2022. Right now I'm a Sr. Technical Lead, and I have
-experience managing engineering teams.
+I'm a Sr. Software Engineer, and I've been building software professionally since 2013. Most of
+my work has been on the backend with Java and Spring, plus Node.js, TypeScript and Python, and a good amount of
+frontend in React and Angular. I've been in tech lead roles since 2022, and I have experience managing
+engineering teams.
 
-These days a lot of my work is AI on AWS. I build agents that automate multi-step workflows, a RAG assistant that
-answers questions from internal docs, and some LLM-based reporting. I also do ML on SageMaker (forecasting,
-classification, anomaly detection), and I got my team using Claude Code and Copilot day to day.
+These days I spend a lot of my time on cloud and AI work on AWS. I build on Lambda, API Gateway, ECS and EKS, keep
+infrastructure in Terraform, and ship through GitHub Actions. On the AI side I build agents that automate
+multi-step workflows, a RAG assistant that answers questions from internal docs, and LLM-based reporting. I work
+with Claude, through Bedrock and the Anthropic API, and with OpenAI models. I also do some ML on SageMaker for forecasting and
+anomaly detection, and I got my team using Claude Code and Copilot day to day.
 
-Before that I did a bit of everything. I started with AEM websites, then spent a few years on web and mobile apps
-(Android, iOS, and Flutter near the end), then worked on payments and checkout APIs.
+Earlier on I built AEM websites, then web and mobile apps for Android and iOS (and Flutter toward the end), and
+later payments and checkout APIs.
 
 ## What I work with
 
