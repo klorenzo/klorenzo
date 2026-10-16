@@ -13,63 +13,41 @@ Before that I did a bit of everything. I started with AEM websites, then spent a
 
 ## What I work with
 
-**🤖 AI & ML**
-<br />
-Claude (through Bedrock and the Anthropic API), OpenAI models, SageMaker, Claude Code, GitHub Copilot. Agents, RAG,
-embeddings, fine-tuning.
+<p>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" title="AWS" width="28" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" title="Google Cloud" width="28" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" title="Docker" width="28" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" title="Kubernetes" width="28" />
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" title="Terraform" width="28" />
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" title="GitHub" width="28" />
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" title="Linux" width="28" />
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="28" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" title="Spring" width="28" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" title="Node.js" width="28" />
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" title="TypeScript" width="28" />
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" title="JavaScript" width="28" />
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" title="Python" width="28" />
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" title="PHP" width="28" />
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" title="GraphQL" width="28" />
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" title="React" width="28" />
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" title="Angular" width="28" />
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue" title="Vue" width="28" />
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" title="HTML5" width="28" />
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" title="PostgreSQL" width="28" />
+  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" title="Cassandra" width="28" />
+  <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="Android" title="Android" width="28" />
+  <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="iOS" title="iOS" width="28" />
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" title="Flutter" width="28" />
+</p>
 
-**☁️ Cloud & DevOps**
-<br />
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" title="AWS" width="28" />
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" title="Kubernetes" width="28" />
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" title="Docker" width="28" />
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" title="Terraform" width="28" />
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" title="GitHub" width="28" />
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" title="Linux" width="28" />
-<br />
-AWS (Lambda, API Gateway, ECS, EKS, S3, SQS, SNS, EventBridge), Kubernetes, Docker, Terraform, GitHub Actions,
-a bit of Google Cloud, Linux.
-
-**⚙️ Backend & APIs**
-<br />
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="28" />
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" title="Spring" width="28" />
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" title="Node.js" width="28" />
-<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" title="TypeScript" width="28" />
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" title="Python" width="28" />
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" title="GraphQL" width="28" />
-<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" title="PHP" width="28" />
-<br />
-Mostly Java and Spring, plus Node.js, TypeScript, Python and some PHP. REST, GraphQL, lots of integrations.
-
-**🖥️ Frontend & web**
-<br />
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" title="React" width="28" />
-<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" title="Angular" width="28" />
-<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue" title="Vue" width="28" />
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" title="JavaScript" width="28" />
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" title="HTML5" width="28" />
-<br />
-React, Angular, Vue, plain JavaScript, HTML and CSS. AEM back when I started.
-
-**🗄️ Data**
-<br />
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" title="PostgreSQL" width="28" />
-<img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" title="Cassandra" width="28" />
-<br />
-PostgreSQL, Cassandra, RDS, DynamoDB.
-
-**📱 Mobile**
-<br />
-<img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="Android" title="Android" width="28" />
-<img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="iOS" title="iOS" width="28" />
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" title="Flutter" width="28" />
-<br />
-Native Android and iOS, and Flutter.
-
-**🧭 Leading teams**
-<br />
-Hiring, 1:1s and reviews, architecture calls, Scrum, code reviews, CI/CD, and a lot of mentoring.
+- **AI:** Claude (through Bedrock and the Anthropic API), OpenAI models and SageMaker. Agents, RAG, embeddings and
+  fine-tuning. Claude Code and Copilot day to day.
+- **Cloud:** AWS (Lambda, API Gateway, ECS, EKS, S3, SQS, SNS, EventBridge), Kubernetes, Docker, Terraform and
+  GitHub Actions. A bit of Google Cloud.
+- **Code:** mostly Java and Spring, plus Node.js, TypeScript and Python. React, Angular and Vue on the frontend.
+  PostgreSQL, Cassandra and DynamoDB for data. REST and GraphQL APIs. Earlier on: PHP, AEM, native Android and iOS,
+  and Flutter.
+- **Teams:** hiring, 1:1s and reviews, architecture calls, Scrum, code reviews, CI/CD and a lot of mentoring.
 
 ## Certifications
 
